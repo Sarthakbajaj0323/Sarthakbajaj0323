@@ -34,7 +34,7 @@
 - AWS Certified Solutions Architect – Associate  
 - AWS Certified AI Practitioner  
 - AWS Certified Machine Learning Engineer – Associate  
-- Rising Star Award – UiPath  
+- Rising Star Award – Amazon  
 
 ---
 
