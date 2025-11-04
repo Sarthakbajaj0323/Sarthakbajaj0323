@@ -1,5 +1,3 @@
-<!-- Profile Banner -->
-<img src="https://raw.githubusercontent.com/Sarthakbajaj0323/Sarthakbajaj0323/main/assets/banner.png" alt="Sarthak Bajaj Banner" width="100%">
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#2E86DE;">Sarthak Bajaj</span></h1>
 
