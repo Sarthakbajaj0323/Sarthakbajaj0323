@@ -26,7 +26,7 @@
 📦 **[AWS Security Automation](#)** — Automated incident response using Lambda + GuardDuty + CloudWatch.  
 🤖 **[GenAI Communication System](#)** — Unified cross-platform messaging powered by LLMs and Python.  
 ⚙️ **[RPA–DevOps Integration](#)** — Azure DevOps + UiPath Test Suite integration for CI/CD testing.  
-🧠 **[DSA Practice](#)** — 800+ LeetCode problems solved (Top 3% global).  
+🧠 **[DSA Practice](#)** — 400+ LeetCode problems solved (Top 28.3% global).  
 
 ---
 
